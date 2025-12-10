@@ -4,7 +4,7 @@ version: 1.0.0
 homepage: https://github.com/NaragudeNitin/scale_picker_package
 
 environment:
-  sdk: ^3.8.1
+  sdk: ^3.6.0
   flutter: ">=1.17.0"
 
 dependencies:
